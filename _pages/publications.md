@@ -3,6 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+{% comment %}
 
 ### Journal Articles
 <br>
@@ -28,3 +29,4 @@ Hyungsik Han, <b>Jaebum Park</b>, Jungmin Kim, Kitaek Bae, and Ilju Na
 <b>[Energy efficiency optimization in distributed MIMO vRAN via cross-layer link abstraction](https://arxiv.org/abs/2607.07520)</b> <br>
 <b>Jaebum Park</b>, Chan-Byoung Chae, and Robert W. Heath Jr.
 <i> arXiv:2607.07520, 2026.</i>
+{% endcomment %}

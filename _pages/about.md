@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% comment %}
 ## Jaebum Park
 * Ph.D. Student
 * Department of Electrical and Computer Engineering, UC San Diego
@@ -43,3 +44,4 @@ redirect_from:
 ## Academic Services
 * Invited reviewer for _IEEE Transactions on Wireless Communications, ..._
 -->
+{% endcomment %}

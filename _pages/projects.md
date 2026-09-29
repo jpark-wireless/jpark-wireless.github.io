@@ -4,6 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+{% comment %}
 
 <b> Graduate research: Energy-efficient virtualized radio access networks </b>
 <br>
@@ -63,3 +64,4 @@ Magazine paper: [Accelerating vRAN and O-RAN with SIMD: Architectural perspectiv
 <br>
 Conference paper: [Baseband phase noise modeling and analysis for 140GHz THz DFT-s-OFDM system](https://ieeexplore.ieee.org/document/10008595)
 <br>
+{% endcomment %}
