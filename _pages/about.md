@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 # Jaebum Park
 * Ph.D. Student at UC San Diego \| Former Staff Engineer at Samsung Research
 * [Department of Electrical and Computer Engineering](https://www.ece.ucsd.edu)
