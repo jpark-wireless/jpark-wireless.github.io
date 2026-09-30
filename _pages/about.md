@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
 # Jaebum Park
 * Ph.D. Student at UC San Diego \| Former Staff Engineer at Samsung Research
 * [Department of Electrical and Computer Engineering](https://www.ece.ucsd.edu)
@@ -23,9 +22,9 @@ redirect_from:
 * Digital predistortion (DPD)
 
 # Education
-* Ph.D. in Electrical and Computer Engineering, UC San Diego (2024 - Present)
-* M.S. in Electrical and Electronic Engineering, KAIST (2017)
-* B.S. in Electrical and Electronic Engineering, Yonsei University (2015)
+* Ph.D. in Electrical and Computer Engineering, UC San Diego, CA, USA (2024 - Present)
+* M.S. in Electrical and Electronic Engineering, KAIST, Daejeon, South, Korea (2017)
+* B.S. in Electrical and Electronic Engineering, Yonsei University, Seoul, South Korea (2015)
 
 # Work Experience
 * Graduate Student Researcher, [Center for Wireless Communications](https://cwc.ucsd.edu/), La Jolla, CA, USA (2024 - Present)
