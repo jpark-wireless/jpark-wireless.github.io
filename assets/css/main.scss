@@ -37,3 +37,14 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+/* Status badge for publications (e.g., In preparation, Submitted, Accepted) */
+.pub-badge {
+  background-color: #28a745;
+  color: #fff;
+  padding: 1px 6px;
+  border-radius: 4px;
+  font-size: 0.75em;
+  font-weight: 600;
+  display: inline-block;
+  vertical-align: middle;
+}
