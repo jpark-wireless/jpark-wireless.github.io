@@ -18,8 +18,8 @@ redirect_from:
 
 # Research Areas
 * Advanced MIMO transceiver algorithms
-* Energy-efficient MIMO techniques for next-generation RAN architectures (vRAN / O-RAN)
-* Digital predistortion (DPD)
+* Energy-efficient MIMO techniques for next-generation AI-RAN architectures (vRAN / O-RAN)
+* Digital predistortion (DPD) techniques
 
 # Education
 * Ph.D. in Electrical and Computer Engineering, UC San Diego, CA, USA (2024 - Present)
@@ -39,11 +39,17 @@ redirect_from:
 
 
 {% comment %}
-<!-- TODO: # Outside of Research
-* Ice hockey
-* Motto: "Keep calm and carry on."
--->
+# Outside of Research
+I have played ice hockey for 20 years. I also enjoy golf, soccer, and most other sports. I live by the motto "Keep calm and carry on."
 
+<div class="photo-row">
+  <img src="/images/hockey1.jpg" alt="Ice hockey">
+  <img src="/images/hockey2.jpg" alt="Ice hockey">
+  <img src="/images/hockey3.jpg" alt="Ice hockey">
+</div>
+{% endcomment %}
+
+{% comment %}
 <!-- TODO: Awards
 # Awards
 * Award name (YYYY)

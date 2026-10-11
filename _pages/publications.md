@@ -14,7 +14,7 @@ author_profile: true
 <b><u>J. Park</u></b>, Y. Xie, A. Ghosh, Y. Shi, and R. W. Heath, Jr. <br>
 <span class="pub-badge">Submitted</span>
 
-<b>\[J05\] [Energy Efficiency Optimization in Distributed MIMO vRAN via Cross-Layer Link Abstraction](https://arxiv.org/abs/2607.07520)</b> <br>
+<b>\[J05\] Energy Efficiency Optimization in Distributed MIMO vRAN via Cross-Layer Link Abstraction</b> <br>
 <b><u>J. Park</u></b>, C.-B. Chae, and R. W. Heath, Jr. <br>
 <i>arXiv preprint</i>, 2026. <span class="pub-badge">Submitted</span>
 
@@ -22,22 +22,22 @@ author_profile: true
 B. Ning, Y. Xie, <b><u>J. Park</u></b>, S. Yang, W. Mei, E. Björnson, and R. W. Heath, Jr. <br>
 <span class="pub-badge">Submitted</span>
 
-<b>\[J03\] [Accelerating vRAN and O-RAN with SIMD: Architectural Perspectives and Performance Evaluation](https://ieeexplore.ieee.org/document/11573795)</b> <br>
+<b>\[J03\] Accelerating vRAN and O-RAN with SIMD: Architectural Perspectives and Performance Evaluation</b> <br>
 <b><u>J. Park</u></b>, C.-B. Chae, and R. W. Heath, Jr. <br>
 <i>IEEE Communications Magazine</i>, vol. 64, no. 11, 2026.
 
-<b>\[J02\] [Precoding Matrix Indicator in the 5G NR Protocol: A Tutorial on 3GPP Beamforming Codebooks](https://ieeexplore.ieee.org/document/11346973)</b> <br>
+<b>\[J02\] Precoding Matrix Indicator in the 5G NR Protocol: A Tutorial on 3GPP Beamforming Codebooks</b> <br>
 B. Ning, H. Yin, S. Liu, H. Deng, S. Yang, Y. Zhang, W. Mei, D. Gesbert, <b><u>J. Park</u></b>, R. W. Heath, Jr., and E. Björnson <br>
 <i>IEEE Communications Surveys & Tutorials</i>, vol. 28, pp. 4581-4623, 2026.
 
-<b>\[J01\] [Reduced Feedback Beamforming with a Large Antenna Array in Wireless Backhaul Downlink Systems](https://doi.org/10.7840/kics.2016.41.12.1903)</b> <br>
+<b>\[J01\] Reduced Feedback Beamforming with a Large Antenna Array in Wireless Backhaul Downlink Systems</b> <br>
 <b><u>J. Park</u></b>, G. Kwon, and H. Park <br>
 <i>The Journal of Korean Institute of Communications and Information Sciences (J-KICS)</i>, vol. 41, no. 12, pp. 1903-1913, 2016.
 
 
 ### Conference Proceedings
 
-<b>\[C07\] [Energy Efficiency Optimization for 5G NR PDSCH: A Cross-Layer Link Abstraction Framework](https://arxiv.org/abs/2610.05390)</b> <br>
+<b>\[C07\] Energy Efficiency Optimization for 5G NR PDSCH: A Cross-Layer Link Abstraction Framework</b> <br>
 <b><u>J. Park</u></b>, C.-B. Chae, and R. W. Heath, Jr. <br>
 <i>arXiv preprint</i>, 2026. <span class="pub-badge">Submitted</span>
 
@@ -45,11 +45,11 @@ B. Ning, H. Yin, S. Liu, H. Deng, S. Yang, Y. Zhang, W. Mei, D. Gesbert, <b><u>J
 <b><u>J. Park</u></b> and R. W. Heath, Jr. <br>
 <i>2026 60th Asilomar Conference on Signals, Systems, and Computers</i>, Pacific Grove, CA, USA, 2026. <span class="pub-badge">Accepted</span>
 
-<b>\[C05\] [Switch-DFT: Adaptive Waveform and MIMO Switching for Energy-Efficient Base Stations](https://ieeexplore.ieee.org/document/11586214)</b> <br>
+<b>\[C05\] Switch-DFT: Adaptive Waveform and MIMO Switching for Energy-Efficient Base Stations</b> <br>
 <b><u>J. Park</u></b>, C.-B. Chae, and R. W. Heath, Jr. <br>
 in <i>Proc. 2026 IEEE ICC Workshops</i>, Glasgow, UK, 2026, pp. 1-6.
 
-<b>\[C04\] [Baseband Phase Noise Modeling and Analysis for 140 GHz THz DFT-s-OFDM System](https://ieeexplore.ieee.org/document/10008595)</b> <br>
+<b>\[C04\] Baseband Phase Noise Modeling and Analysis for 140 GHz THz DFT-s-OFDM System</b> <br>
 H. Han, <b><u>J. Park</u></b>, J. Kim, K. Bae, and I. Na <br>
 in <i>Proc. 2022 IEEE Globecom Workshops</i>, Rio de Janeiro, Brazil, 2022, pp. 1748-1753.
 
