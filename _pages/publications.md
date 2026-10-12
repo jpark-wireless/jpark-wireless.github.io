@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Journal Articles
+## Journal Articles
 
 <b>\[J07\] Two-Timescale Receive Combining for Fronthaul-Constrained Uplink XL-MIMO with Visibility Regions</b> <br>
 <b><u>J. Park</u></b> and R. W. Heath, Jr. <br>
@@ -35,7 +35,7 @@ B. Ning, H. Yin, S. Liu, H. Deng, S. Yang, Y. Zhang, W. Mei, D. Gesbert, <b><u>J
 <i>The Journal of Korean Institute of Communications and Information Sciences (J-KICS)</i>, vol. 41, no. 12, pp. 1903-1913, 2016.
 
 
-### Conference Proceedings
+## Conference Proceedings
 
 <b>\[C07\] Energy Efficiency Optimization for 5G NR PDSCH: A Cross-Layer Link Abstraction Framework</b> <br>
 <b><u>J. Park</u></b>, C.-B. Chae, and R. W. Heath, Jr. <br>
