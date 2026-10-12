@@ -75,3 +75,13 @@
     }
   }
 }
+
+/* Second line inside a section heading (e.g., location and period), shown above the heading rule */
+.section-meta {
+  display: block;
+  margin-top: 0.35em;
+  font-size: 0.6em;
+  font-weight: normal;
+  font-style: italic;
+  color: var(--global-text-color-light);
+}

@@ -5,8 +5,7 @@ author_profile: true
 ---
 
 
-## Center for Wireless Communications (CWC), UC San Diego
-### <i>San Diego, CA, USA, Sep. 2024 - Present</i>
+## Center for Wireless Communications (CWC), UC San Diego <span class="section-meta">San Diego, CA, USA, Sep. 2024 - Present</span>
 
 <b>Nokia Bell Labs Project</b> (Oct. 2025 - Present)
 
@@ -20,8 +19,7 @@ author_profile: true
 * AI/ML-based digital predistortion (DPD) technique
 
 
-## 6G Research Team, Samsung Research (SR), Samsung Electronics
-### <i>Seoul, South Korea, Jan. 2017 - Aug. 2024</i> <br>
+## 6G Research Team, Samsung Research (SR), Samsung Electronics <span class="section-meta">Seoul, South Korea, Jan. 2017 - Aug. 2024</span>
 
 <b>vRAN Development Project for AI-RAN</b> (on assignment to the Samsung Networks Business)
 
@@ -49,8 +47,7 @@ author_profile: true
 * Showcased the Samsung Bot at 2019 CES, Las Vegas, U.S.
 
 
-## Korea Advanced Institute of Science and Technology (KAIST)
-### <i>Daejeon, South Korea, Jan. 2015 - Dec. 2016</i>
+## Korea Advanced Institute of Science and Technology (KAIST) <span class="section-meta">Daejeon, South Korea, Jan. 2015 - Dec. 2016</span>
 
 <b>Wireless Backhaul Downlink Systems Project, sponsored by ETRI</b>
 
