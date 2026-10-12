@@ -8,19 +8,19 @@ author_profile: true
 
 <b>\[J07\] Two-Timescale Receive Combining for Fronthaul-Constrained Uplink XL-MIMO with Visibility Regions</b> <br>
 <b><u>J. Park</u></b> and R. W. Heath, Jr. <br>
-<span class="pub-badge">In preparation</span>
+<span class="pub-badge in-preparation">In preparation</span>
 
 <b>\[J06\] Carbon-Aware Joint Resource and Energy Scheduling for Cellular Base Stations</b> <br>
 <b><u>J. Park</u></b>, Y. Xie, A. Ghosh, Y. Shi, and R. W. Heath, Jr. <br>
-<span class="pub-badge">Submitted</span>
+<span class="pub-badge submitted">Submitted</span>
 
 <b>\[J05\] Energy Efficiency Optimization in Distributed MIMO vRAN via Cross-Layer Link Abstraction</b> <br>
 <b><u>J. Park</u></b>, C.-B. Chae, and R. W. Heath, Jr. <br>
-<i>arXiv preprint</i>, 2026. <span class="pub-badge">Submitted</span>
+<i>arXiv preprint</i>, 2026. <span class="pub-badge submitted">Submitted</span>
 
 <b>\[J04\] Broadcasting in Centimeter-Wave G-MIMO Communication Systems: Beam Shaping is All You Need</b> <br>
 B. Ning, Y. Xie, <b><u>J. Park</u></b>, S. Yang, W. Mei, E. Björnson, and R. W. Heath, Jr. <br>
-<span class="pub-badge">Submitted</span>
+<span class="pub-badge submitted">Submitted</span>
 
 <b>\[J03\] Accelerating vRAN and O-RAN with SIMD: Architectural Perspectives and Performance Evaluation</b> <br>
 <b><u>J. Park</u></b>, C.-B. Chae, and R. W. Heath, Jr. <br>
@@ -39,11 +39,11 @@ B. Ning, H. Yin, S. Liu, H. Deng, S. Yang, Y. Zhang, W. Mei, D. Gesbert, <b><u>J
 
 <b>\[C07\] Energy Efficiency Optimization for 5G NR PDSCH: A Cross-Layer Link Abstraction Framework</b> <br>
 <b><u>J. Park</u></b>, C.-B. Chae, and R. W. Heath, Jr. <br>
-<i>arXiv preprint</i>, 2026. <span class="pub-badge">Submitted</span>
+<i>arXiv preprint</i>, 2026. <span class="pub-badge submitted">Submitted</span>
 
 <b>\[C06\] Fronthaul-Constrained Low-Rank RX Combiner Design for Uplink XL-MIMO</b> <br>
 <b><u>J. Park</u></b> and R. W. Heath, Jr. <br>
-<i>2026 60th Asilomar Conference on Signals, Systems, and Computers</i>, Pacific Grove, CA, USA, 2026. <span class="pub-badge">Accepted</span>
+<i>2026 60th Asilomar Conference on Signals, Systems, and Computers</i>, Pacific Grove, CA, USA, 2026. <span class="pub-badge accepted">Accepted</span>
 
 <b>\[C05\] Switch-DFT: Adaptive Waveform and MIMO Switching for Energy-Efficient Base Stations</b> <br>
 <b><u>J. Park</u></b>, C.-B. Chae, and R. W. Heath, Jr. <br>

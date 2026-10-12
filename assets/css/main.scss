@@ -39,7 +39,7 @@
 ;
 /* Status badge for publications (e.g., In preparation, Submitted, Accepted) */
 .pub-badge {
-  background-color: #28a745;
+  background-color: #6c757d;
   color: #fff;
   padding: 1px 6px;
   border-radius: 4px;
@@ -47,6 +47,10 @@
   font-weight: 600;
   display: inline-block;
   vertical-align: middle;
+
+  &.in-preparation { background-color: #6c757d; }
+  &.submitted      { background-color: #2b6cb0; }
+  &.accepted       { background-color: #1e7e34; }
 }
 
 /* Row of photos shown side by side (stacks vertically on narrow screens) */
