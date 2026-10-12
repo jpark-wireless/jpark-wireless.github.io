@@ -7,12 +7,12 @@ author_profile: true
 
 ## Center for Wireless Communications (CWC), UC San Diego <span class="section-meta">San Diego, CA, USA, Sep. 2024 - Present</span>
 
-<b>Nokia Bell Labs Project</b> (Oct. 2025 - Present)
+<b>Nokia Bell Labs Project</b>
 
 * Energy-Efficient G-agnostic RAN through Software-Defined Baseband and Adaptive Fronthaul (Oct.2026 - current)
 * Energy and Carbon for Wireless (Oct. 2025 - Sep. 2026)
 
-<b>Graduate Student Researcher (GSR) (Sep. 2024 - Present)</b>
+<b>Graduate Student Researcher (GSR)</b>
 
 * Advanced MIMO transceiver algorithms
 * Energy-efficient MIMO algorithms for next generation AI-RAN (vRAN / O-RAN)
