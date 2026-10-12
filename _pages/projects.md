@@ -1,67 +1,67 @@
 ---
-layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
 {% comment %}
 
-<b> Graduate research: Energy-efficient virtualized radio access networks </b>
-<br>
-<br>
-Radio access networks are moving toward virtualization and openness, where the baseband runs as software on commercial servers. This shift makes energy efficiency and real-time baseband processing primary design objectives. My research develops energy efficiency models and optimization frameworks that account for 3GPP NR link performance, power amplifier behavior, and the compute cost of virtualized baseband processing.
-<br>
-<br>
+### Center for Wireless Communications (CWC), UC San Diego
+<i>San Diego, CA, USA, Sep. 2024 - Present</i>
+
+<b>Nokia Bell Labs Project</b> (Oct. 2025 - Present)
+
+* Energy-Efficient G-agnostic RAN through Software-Defined Baseband and Adaptive Fronthaul (Oct.2026 - current)
+* Energy and Carbon for Wireless (Oct. 2025 - Sep. 2026)
+
+<b>Graduate Student Researcher (GSR) (Sep. 2024 - Present)</b>
+
+* Advanced MIMO transceiver algorithms
+* Energy-efficient MIMO algorithms for next generation AI-RAN (vRAN / O-RAN)
+* AI/ML-based digital predistortion (DPD) technique
 
 
-<br>
-<b> Project 1: Energy efficiency optimization in distributed MIMO vRAN via cross-layer link abstraction</b>
-<br>
-<!-- TODO: figure, e.g. <img src="/files/cross_ee_ran.png" width="750" height="180" style="float:top"> <br> -->
-1) Built a power model that resolves virtualized distributed unit (vDU) baseband, fronthaul transport, and per-radio-unit power
-<br>
-2) Developed a framework that jointly selects modulation, transmission rank, and per-subcarrier power with a closed-form waterfilling-like solution based on exponential effective SNR mapping
-<br>
-3) Proposed a traffic-aware strategy that switches each radio unit among MIMO, SIMO, and sleep modes based on demand
-<br>
-Preprint: [Energy efficiency optimization in distributed MIMO vRAN via cross-layer link abstraction](https://arxiv.org/abs/2607.07520)
-<br>
+### Samsung Research (SR), Samsung Electronics
+<i>Seoul, South Korea, Jan. 2017 - Aug. 2024</i> <br>
+
+<b>vRAN Development Project for AI-RAN</b> (on assignment to the Samsung Networks Business)
+
+* Developed and tested vDU software for the North American market on COTS servers (HPE / DELL)
+* Validated cloud-native/containerized vDU deployments and verified PHY-layer performance
+* Contributed to O-RAN compliant vRAN platform
+
+<b>Task on Uplink Performance Improvement (ULPI) in O-RAN standard</b>
+
+* Developed an advanced MIMO receiver to optimize the O-RAN functional split option 7-2x
+* Proposed a low-complexity SVD-based compression method (2 patents)
+
+<b>6G Testbed (TB) Development Project</b>
+
+* Demonstrated a 100 Gbps transmission at the Samsung Tech Fair 2022
+* Defined 6G THz TB Key Performance Indicators (KPIs) and Specification (PDSCH, PUSCH, PDCCH, PUCCH, SSB, PRACH)
+* Created a Link-Level Simulator (LLS) for 6G TB (Floating/Fixed Point Modeling)
+* Implemented RTL projects for 6G TB hardware FPGA Platform
+* Developed MIMO receiver algorithms toward 6G candidate frequency bands (e.g., sub-THz, FR3)
+
+<b>AI-based Smart Machine Development Project</b>
+
+* Improved the accuracy of lane detection algorithm for autonomous driving by using deep learning, such as convolutional neural network (CNN)
+* Created the human following algorithm for healthcare robots by combining various kinds of sensor data
+* Showcased the Samsung Bot at 2019 CES, Las Vegas, U.S.
 
 
+### Korea Advanced Institute of Science and Technology (KAIST)
+<i>Daejeon, South Korea, Jan. 2015 - Dec. 2016</i>
 
-<br>
-<b> Project 2: Switch-DFT: Adaptive waveform and MIMO switching for energy-efficient base stations</b>
-<br>
-<!-- TODO: figure -->
-1) Proposed an adaptive framework that selects between CP-OFDM and DFT-s-OFDM waveforms and between SIMO and MIMO modes
-<br>
-2) Reduced power amplifier backoff with DFT-s-OFDM and met the target rate at lower power with MIMO, improving energy efficiency over static configurations across a wide spectral efficiency range
-<br>
-Conference paper: [Switch-DFT: Adaptive waveform and MIMO switching for energy-efficient base stations](https://ieeexplore.ieee.org/document/11586214)
-<br>
+<b>Wireless Backhaul Downlink Systems Project, sponsored by ETRI</b>
 
+* Modeled a ray-tracing-based clustered delay line (CDL) channel
+* Designed beamforming matrices based on limited feedback
+* PI: Prof. Hyuncheol Park and Prof. Dongho Cho
 
+<b>Research Assistant (RA) and Teaching Assistant (TA)</b>
 
-<br>
-<b> Project 3: Accelerating vRAN and O-RAN with SIMD</b>
-<br>
-<!-- TODO: figure -->
-1) Analyzed how single instruction multiple data (SIMD) architectures accelerate physical-layer functions such as channel estimation and MIMO detection
-<br>
-2) Presented design guidelines and prototype results with about 50% higher throughput and more than twice the energy efficiency of CPU-only processing
-<br>
-Magazine paper: [Accelerating vRAN and O-RAN with SIMD: Architectural perspectives and performance evaluation](https://ieeexplore.ieee.org/document/11573795)
-<br>
-<br>
-<br>
+* Conducted research on limited-feedback beamforming for massive MIMO wireless backhaul system
+* Served as a TA for undergraduate laboratory courses, including C++ Programming and Electronic and Electrical Circuit Design
+* Mentored undergraduate students
 
-<b> Earlier research </b>
-
-<br>
-<b> Project 1: Phase noise modeling for sub-THz DFT-s-OFDM systems</b>
-<br>
-1) Modeled and analyzed baseband phase noise for a 140 GHz THz DFT-s-OFDM system
-<br>
-Conference paper: [Baseband phase noise modeling and analysis for 140GHz THz DFT-s-OFDM system](https://ieeexplore.ieee.org/document/10008595)
-<br>
 {% endcomment %}
