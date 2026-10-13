@@ -12,7 +12,7 @@ author_profile: true
 
 <b>\[J06\] Carbon-Aware Joint Resource and Energy Scheduling for Cellular Base Stations</b> <br>
 <b><u>J. Park</u></b>, Y. Xie, A. Ghosh, Y. Shi, and R. W. Heath, Jr. <br>
-<span class="pub-badge submitted">Submitted</span>
+<i>arXiv preprint</i>, 2026. <span class="pub-badge submitted">Submitted</span>
 
 <b>\[J05\] Energy Efficiency Optimization in Distributed MIMO vRAN via Cross-Layer Link Abstraction</b> <br>
 <b><u>J. Park</u></b>, C.-B. Chae, and R. W. Heath, Jr. <br>
