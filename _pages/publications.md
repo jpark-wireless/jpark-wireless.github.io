@@ -20,7 +20,7 @@ author_profile: true
 
 <b>\[J04\] Broadcasting in Centimeter-Wave G-MIMO Communication Systems: Beam Shaping is All You Need</b> <br>
 B. Ning, Y. Xie, <b><u>J. Park</u></b>, S. Yang, W. Mei, E. Björnson, and R. W. Heath, Jr. <br>
-<span class="pub-badge submitted">Submitted</span>
+<i>IEEE Communications Transactions on Wireless Communications</i>, 2026. <span class="pub-badge submitted">Accepted</span>
 
 <b>\[J03\] Accelerating vRAN and O-RAN with SIMD: Architectural Perspectives and Performance Evaluation</b> <br>
 <b><u>J. Park</u></b>, C.-B. Chae, and R. W. Heath, Jr. <br>
