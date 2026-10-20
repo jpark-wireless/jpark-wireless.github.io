@@ -19,6 +19,7 @@ redirect_from:
 # Research Areas
 * Advanced MIMO transceiver algorithms
 * Energy-efficient MIMO techniques for next-generation AI-RAN architectures (vRAN / O-RAN)
+* Fronthaul-limited MIMO
 * Digital predistortion (DPD) techniques
 
 # Education
@@ -28,9 +29,11 @@ redirect_from:
 
 # Work Experience
 * Graduate Student Researcher, [Center for Wireless Communications](https://cwc.ucsd.edu/), La Jolla, CA, USA (2024 - Present)
-  * Wireless Systems Innovation Laboratory ([WSIL](https://profheath.org/))
+  * Wireless Systems Innovation Laboratory ([WSIL](https://profheath.org/)), Advisor: Prof. Robert Heath
 * Staff Engineer, [Samsung Research](https://research.samsung.com/), Seoul, South Korea (2017 - 2024)
-  * 6G Research Team
+  * 6G Research Team, Advisor: Dr. Charlie Zhang
+* Research Assistant, [KAIST](https://www.kaist.ac.kr/en/), Daejeon, South Korea (2015 - 2016)
+  * Laboratory for Information Transmission ([LIT](https://lit.kaist.ac.kr/)), Advisor: Prof. Hyuncheol Park
 
 # Technical Skills
 * C/C++, MATLAB, Python, Verilog (RTL), Linux, Shell scripting
