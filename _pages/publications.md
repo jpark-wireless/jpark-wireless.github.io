@@ -20,19 +20,19 @@ author_profile: true
 
 <b>\[J04\] Broadcasting in Centimeter-Wave G-MIMO Communication Systems: Beam Shaping is All You Need</b> <br>
 B. Ning, Y. Xie, <b><u>J. Park</u></b>, S. Yang, W. Mei, E. Björnson, and R. W. Heath, Jr. <br>
-<i>IEEE Communications Transactions on Wireless Communications</i>, 2026. <span class="pub-badge accepted">Accepted</span>
+<i>IEEE Transactions on Wireless Communications</i>, early access, 2026. [DOI](https://doi.org/10.1109/TWC.2026.3747326)
 
 <b>\[J03\] Accelerating vRAN and O-RAN with SIMD: Architectural Perspectives and Performance Evaluation</b> <br>
 <b><u>J. Park</u></b>, C.-B. Chae, and R. W. Heath, Jr. <br>
-<i>IEEE Communications Magazine</i>, vol. 64, no. 11, 2026.
+<i>IEEE Communications Magazine</i>, vol. 64, no. 11, 2026. [DOI](https://doi.org/10.1109/MCOM.001.2500550)
 
 <b>\[J02\] Precoding Matrix Indicator in the 5G NR Protocol: A Tutorial on 3GPP Beamforming Codebooks</b> <br>
 B. Ning, H. Yin, S. Liu, H. Deng, S. Yang, Y. Zhang, W. Mei, D. Gesbert, <b><u>J. Park</u></b>, R. W. Heath, Jr., and E. Björnson <br>
-<i>IEEE Communications Surveys & Tutorials</i>, vol. 28, pp. 4581-4623, 2026.
+<i>IEEE Communications Surveys & Tutorials</i>, vol. 28, pp. 4581-4623, 2026. [DOI](https://doi.org/10.1109/COMST.2026.3653568)
 
 <b>\[J01\] Reduced Feedback Beamforming with a Large Antenna Array in Wireless Backhaul Downlink Systems</b> <br>
 <b><u>J. Park</u></b>, G. Kwon, and H. Park <br>
-<i>The Journal of Korean Institute of Communications and Information Sciences (J-KICS)</i>, vol. 41, no. 12, pp. 1903-1913, 2016.
+<i>The Journal of Korean Institute of Communications and Information Sciences (J-KICS)</i>, vol. 41, no. 12, pp. 1903-1913, 2016. [DOI](https://doi.org/10.7840/kics.2016.41.12.1903)
 
 
 ## Conference Proceedings
@@ -47,11 +47,11 @@ B. Ning, H. Yin, S. Liu, H. Deng, S. Yang, Y. Zhang, W. Mei, D. Gesbert, <b><u>J
 
 <b>\[C05\] Switch-DFT: Adaptive Waveform and MIMO Switching for Energy-Efficient Base Stations</b> <br>
 <b><u>J. Park</u></b>, C.-B. Chae, and R. W. Heath, Jr. <br>
-in <i>Proc. 2026 IEEE ICC Workshops</i>, Glasgow, UK, 2026, pp. 1-6.
+in <i>Proc. 2026 IEEE ICC Workshops</i>, Glasgow, UK, 2026, pp. 1-6. [DOI](https://doi.org/10.1109/ICCWorkshops63917.2026.11586214)
 
 <b>\[C04\] Baseband Phase Noise Modeling and Analysis for 140 GHz THz DFT-s-OFDM System</b> <br>
 H. Han, <b><u>J. Park</u></b>, J. Kim, K. Bae, and I. Na <br>
-in <i>Proc. 2022 IEEE Globecom Workshops</i>, Rio de Janeiro, Brazil, 2022, pp. 1748-1753.
+in <i>Proc. 2022 IEEE Globecom Workshops</i>, Rio de Janeiro, Brazil, 2022, pp. 1748-1753. [DOI](https://doi.org/10.1109/GCWkshps56602.2022.10008595)
 
 <b>\[C03\] A Two-stage Beamforming Scheme using Location Information in Massive MIMO Wireless Backhaul Channel</b> <br>
 G. Kwon, <b><u>J. Park</u></b>, and H. Park <br>
