@@ -12,7 +12,7 @@ S. Lee, <b><u>J. Park</u></b>, H. Park, and R. W. Heath, Jr. <br>
 
 <b>\[J07\] Two-Timescale Receive Combining for Fronthaul-Constrained Uplink XL-MIMO with Visibility Regions</b> <br>
 <b><u>J. Park</u></b> and R. W. Heath, Jr. <br>
-2026\. <span class="pub-badge submitted">Submitted</span>
+<i>arXiv preprint</i>, 2026. <span class="pub-badge submitted">Submitted</span>
 
 <b>\[J06\] Carbon-Aware Joint Resource and Energy Scheduling for Cellular Base Stations</b> <br>
 <b><u>J. Park</u></b>, Y. Xie, A. Ghosh, Y. Shi, and R. W. Heath, Jr. <br>
