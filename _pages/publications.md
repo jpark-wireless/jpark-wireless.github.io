@@ -8,11 +8,11 @@ author_profile: true
 
 <b>\[J08\] Distributed Graph Neural Network for Scalable Beam Configuration in Cell-Free MIMO Networks</b> <br>
 S. Lee, <b><u>J. Park</u></b>, H. Park, and R. W. Heath, Jr. <br>
-<span class="pub-badge in-preparation">In preparation</span>
+2026. <span class="pub-badge in-preparation">In preparation</span>
 
 <b>\[J07\] Two-Timescale Receive Combining for Fronthaul-Constrained Uplink XL-MIMO with Visibility Regions</b> <br>
 <b><u>J. Park</u></b> and R. W. Heath, Jr. <br>
-<span class="pub-badge submitted">Submitted</span>
+2026. <span class="pub-badge submitted">Submitted</span>
 
 <b>\[J06\] Carbon-Aware Joint Resource and Energy Scheduling for Cellular Base Stations</b> <br>
 <b><u>J. Park</u></b>, Y. Xie, A. Ghosh, Y. Shi, and R. W. Heath, Jr. <br>
