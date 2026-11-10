@@ -8,7 +8,7 @@ author_profile: true
 ## Conference Presentations
 
 <b>Fronthaul-Constrained Low-Rank RX Combiner Design for Uplink XL-MIMO</b> <br>
-<i>Asilomar Conference on Signals, Systems, and Computers</i>, Pacific Grove, CA, USA, Oct. 2026.
+<i>The 60th Asilomar Conference on Signals, Systems, and Computers</i>, Pacific Grove, CA, USA, Oct. 2026.
 
 <b>Switch-DFT: Adaptive Waveform and MIMO Switching for Energy-Efficient Base Stations</b> <br>
 <i>IEEE ICC 2026 Workshop on Open RAN</i>, Glasgow, UK, Jun. 2026.
