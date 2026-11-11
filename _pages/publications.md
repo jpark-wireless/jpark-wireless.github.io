@@ -47,7 +47,7 @@ B. Ning, H. Yin, S. Liu, H. Deng, S. Yang, Y. Zhang, W. Mei, D. Gesbert, <b><u>J
 
 <b>\[C06\] Fronthaul-Constrained Low-Rank RX Combiner Design for Uplink XL-MIMO</b> <br>
 <b><u>J. Park</u></b> and R. W. Heath, Jr. <br>
-<i>2026 60th Asilomar Conference on Signals, Systems, and Computers</i>, Pacific Grove, CA, USA, 2026. <span class="pub-badge accepted">Accepted</span>
+in <i>Proc. 60th Asilomar Conference on Signals, Systems, and Computers</i>, Pacific Grove, CA, USA, 2026.
 
 <b>\[C05\] Switch-DFT: Adaptive Waveform and MIMO Switching for Energy-Efficient Base Stations</b> <br>
 <b><u>J. Park</u></b>, C.-B. Chae, and R. W. Heath, Jr. <br>
