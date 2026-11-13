@@ -28,7 +28,7 @@ B. Ning, Y. Xie, <b><u>J. Park</u></b>, S. Yang, W. Mei, E. Björnson, and R. W.
 
 <b>\[J03\] Accelerating vRAN and O-RAN with SIMD: Architectural Perspectives and Performance Evaluation</b> <br>
 <b><u>J. Park</u></b>, C.-B. Chae, and R. W. Heath, Jr. <br>
-<i>IEEE Communications Magazine</i>, vol. 64, no. 11, 2026. [DOI](https://doi.org/10.1109/MCOM.001.2500550)
+<i>IEEE Communications Magazine</i>, vol. 64, no. 11, pp. 302-308, Nov. 2026. [DOI](https://doi.org/10.1109/MCOM.001.2500550)
 
 <b>\[J02\] Precoding Matrix Indicator in the 5G NR Protocol: A Tutorial on 3GPP Beamforming Codebooks</b> <br>
 B. Ning, H. Yin, S. Liu, H. Deng, S. Yang, Y. Zhang, W. Mei, D. Gesbert, <b><u>J. Park</u></b>, R. W. Heath, Jr., and E. Björnson <br>
